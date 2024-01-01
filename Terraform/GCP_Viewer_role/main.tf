@@ -1,3 +1,5 @@
+#A Real, modern Google Cloud Platform (GCP) Viewer - Read Only role that includes all the necessary services required for smooth and efficient operations.
+
 variable "prod_viewers" {
   type = list(string)
   default = [
